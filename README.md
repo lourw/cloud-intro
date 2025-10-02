@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-- Docker 
+- Docker or podman
 - go
 
 ### Basic Setup
